@@ -22,7 +22,6 @@ Este projeto foi desenvolvido para a disciplina de **Algoritmos e Estrutura de D
 * 📌 **Treinamento do Modelo**:
 
   * Árvore de Decisão sem balanceamento;
-  * Árvore de Decisão com **SMOTE** (oversampling);
   * Árvore de Decisão com **class\_weight='balanced'**.
 * 📌 **Avaliação**: utilização de matriz de confusão e relatório de classificação para cada modelo.
 * 📌 **Visualização**: geração do gráfico da Árvore de Decisão usando `plot_tree()`.
